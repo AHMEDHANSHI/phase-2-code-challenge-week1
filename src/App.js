@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Content from './components/Content'
 
 function App() {
   const lists=[{
@@ -77,7 +78,7 @@ function App() {
     <div className="App">
 
       
-      <ContentList props={lists} />
+      <Content props={lists} />
 
     </div>
       
