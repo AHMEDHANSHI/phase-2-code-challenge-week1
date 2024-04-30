@@ -1,0 +1,10 @@
+.contents{
+    margin: 100px;
+    padding: 100px;
+    border:solid 1px black;
+    color:purple;
+    text-transform: capitalize;
+    list-style: none;
+    font-size: 15px
+
+}
